@@ -1,4 +1,26 @@
-html {
+html,
+body {
     /* background: red; */
     background-color: black;
+    color: white;
 }
+
+/* #navbarNav{
+    float: right !important !important; 
+    display: flex;
+    justify-content: flex-end;
+} */
+
+
+
+
+.navbar-collapse {
+    flex-basis: 100%;
+    flex-grow: 1;
+}
+
+.fl-right {
+    float: right;
+}
+
+
